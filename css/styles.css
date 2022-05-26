@@ -465,13 +465,7 @@ body {
   border-radius: 4px;
   border-color: transparent;
   padding: 6px 22px;
-
-  /* margin-right: 20px; */
 }
-
-/* .btn-item:not(:last-child) {
-  margin-right: 8px;
-} */
 
 .btn-item:hover,
 .btn-item:focus {
